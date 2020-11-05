@@ -1,0 +1,44 @@
+{
+    "themeColor": {
+        "value": -30405,
+        "falpha": 0.0
+    },
+    "themeDarkerColor": {
+        "value": -958464,
+        "falpha": 0.0
+    },
+    "themeLighterColor": {
+        "value": -90786,
+        "falpha": 0.0
+    },
+    "sectionColor": {
+        "value": -4013374,
+        "falpha": 0.0
+    },
+    "backgroundColor": {
+        "value": -1,
+        "falpha": 0.0
+    },
+    "textPrimaryColor": {
+        "value": -13487566,
+        "falpha": 0.0
+    },
+    "textSecondaryColor": {
+        "value": -1,
+        "falpha": 0.0
+    },
+    "accentColor": {
+        "value": -12774397,
+        "falpha": 0.0
+    },
+    "specialColor": {
+        "value": -12774397,
+        "falpha": 0.0
+    },
+    "inputColor": {
+        "value": -10724260,
+        "falpha": 0.0
+    },
+    "themeName": "newspaper",
+    "backgroundImageUrl": "resources\\images\\newspaper.png"
+}

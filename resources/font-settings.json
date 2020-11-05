@@ -1,0 +1,51 @@
+{
+    "panelButtonFont": {
+        "name": "Roboto Cn",
+        "style": 0,
+        "size": 20,
+        "pointSize": 20.0,
+        "fontSerializedDataVersion": 1
+    },
+    "mainButtonFont": {
+        "name": "Roboto Cn",
+        "style": 0,
+        "size": 24,
+        "pointSize": 24.0,
+        "fontSerializedDataVersion": 1
+    },
+    "labelFont": {
+        "name": "Roboto Cn",
+        "style": 0,
+        "size": 20,
+        "pointSize": 20.0,
+        "fontSerializedDataVersion": 1
+    },
+    "textFieldFont": {
+        "name": "Roboto Cn",
+        "style": 0,
+        "size": 18,
+        "pointSize": 18.0,
+        "fontSerializedDataVersion": 1
+    },
+    "statusBarFont": {
+        "name": "Roboto Cn",
+        "style": 0,
+        "size": 18,
+        "pointSize": 18.0,
+        "fontSerializedDataVersion": 1
+    },
+    "importantFont": {
+        "name": "Roboto Cn",
+        "style": 3,
+        "size": 36,
+        "pointSize": 36.0,
+        "fontSerializedDataVersion": 1
+    },
+    "noteFont": {
+        "name": "Roboto Cn",
+        "style": 2,
+        "size": 14,
+        "pointSize": 14.0,
+        "fontSerializedDataVersion": 1
+    }
+}

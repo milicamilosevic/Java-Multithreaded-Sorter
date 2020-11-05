@@ -1,0 +1,44 @@
+{
+    "themeColor": {
+        "value": -10724260,
+        "falpha": 0.0
+    },
+    "themeDarkerColor": {
+        "value": -12961222,
+        "falpha": 0.0
+    },
+    "themeLighterColor": {
+        "value": -9079435,
+        "falpha": 0.0
+    },
+    "sectionColor": {
+        "value": -3815995,
+        "falpha": 0.0
+    },
+    "backgroundColor": {
+        "value": -1,
+        "falpha": 0.0
+    },
+    "textPrimaryColor": {
+        "value": -13487566,
+        "falpha": 0.0
+    },
+    "textSecondaryColor": {
+        "value": -1,
+        "falpha": 0.0
+    },
+    "accentColor": {
+        "value": -16554282,
+        "falpha": 0.0
+    },
+    "specialColor": {
+        "value": -16777216,
+        "falpha": 0.0
+    },
+    "inputColor": {
+        "value": -10724260,
+        "falpha": 0.0
+    },
+    "themeName": "default-gray",
+    "backgroundImageUrl": "resources/images/numbers.png"
+}

@@ -1,0 +1,44 @@
+{
+  "themeColor": {
+    "value": -1738057,
+    "falpha": 0.0
+  },
+  "themeDarkerColor": {
+    "value": -3922834,
+    "falpha": 0.0
+  },
+  "themeLighterColor": {
+    "value": -556092,
+    "falpha": 0.0
+  },
+  "sectionColor": {
+    "value": -17171,
+    "falpha": 0.0
+  },
+  "backgroundColor": {
+    "value": -1,
+    "falpha": 0.0
+  },
+  "textPrimaryColor": {
+    "value": -13487566,
+    "falpha": 0.0
+  },
+  "textSecondaryColor": {
+    "value": -1,
+    "falpha": 0.0
+  },
+  "accentColor": {
+    "value": -10997833,
+    "falpha": 0.0
+  },
+  "specialColor": {
+    "value": -1,
+    "falpha": 0.0
+  },
+  "inputColor": {
+    "value": -1738057,
+    "falpha": 0.0
+  },
+  "themeName": "pink-flowers",
+  "backgroundImageUrl": "resources/images/flowers.jpg"
+}

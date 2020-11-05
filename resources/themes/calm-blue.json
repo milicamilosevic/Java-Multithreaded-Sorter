@@ -1,0 +1,44 @@
+{
+    "themeColor": {
+        "value": -16751144,
+        "falpha": 0.0
+    },
+    "themeDarkerColor": {
+        "value": -16759404,
+        "falpha": 0.0
+    },
+    "themeLighterColor": {
+        "value": -16746497,
+        "falpha": 0.0
+    },
+    "sectionColor": {
+        "value": -1973791,
+        "falpha": 0.0
+    },
+    "backgroundColor": {
+        "value": -1,
+        "falpha": 0.0
+    },
+    "textPrimaryColor": {
+        "value": -13487566,
+        "falpha": 0.0
+    },
+    "textSecondaryColor": {
+        "value": -1,
+        "falpha": 0.0
+    },
+    "accentColor": {
+        "value": -16759404,
+        "falpha": 0.0
+    },
+    "specialColor": {
+        "value": -16777216,
+        "falpha": 0.0
+    },
+    "inputColor": {
+        "value": -10395295,
+        "falpha": 0.0
+    },
+    "themeName": "calm-blue",
+    "backgroundImageUrl": ""
+}

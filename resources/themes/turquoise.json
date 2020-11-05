@@ -1,0 +1,44 @@
+{
+    "themeColor": {
+        "value": -14251642,
+        "falpha": 0.0
+    },
+    "themeDarkerColor": {
+        "value": -14850717,
+        "falpha": 0.0
+    },
+    "themeLighterColor": {
+        "value": -13984872,
+        "falpha": 0.0
+    },
+    "sectionColor": {
+        "value": -1,
+        "falpha": 0.0
+    },
+    "backgroundColor": {
+        "value": -1776412,
+        "falpha": 0.0
+    },
+    "textPrimaryColor": {
+        "value": -13487566,
+        "falpha": 0.0
+    },
+    "textSecondaryColor": {
+        "value": -1,
+        "falpha": 0.0
+    },
+    "accentColor": {
+        "value": -13023027,
+        "falpha": 0.0
+    },
+    "specialColor": {
+        "value": -16760768,
+        "falpha": 0.0
+    },
+    "inputColor": {
+        "value": -14251642,
+        "falpha": 0.0
+    },
+    "themeName": "turquoise",
+    "backgroundImageUrl": ""
+}
